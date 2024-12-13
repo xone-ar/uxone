@@ -40,9 +40,8 @@ header {
 }
 .company-name {
   font-size: 35px;
-  
   color: #000000;
-  font-family: 'HelveticaNeueRoman', sans-serif;
+  font-family: 'Arial', sans-serif;
 }
 .menu-toggle {
   display: flex;
