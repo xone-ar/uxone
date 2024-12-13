@@ -470,7 +470,7 @@ section.projects div.cards div.card span.tag-project {
   .company-name {
     font-size: 40px;
     color: #000000;
-    font-family: 'HelveticaNeueRoman';
+    font-family: 'Arial', sans-serif;
   }
   .menu {
     display: flex;
